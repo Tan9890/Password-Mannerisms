@@ -1,0 +1,138 @@
+﻿<Dictionary x:TypeArguments="x:String, List(List(x:Int32))" xmlns="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <List x:TypeArguments="List(x:Int32)" x:Key="tanuj" Capacity="4">
+    <List x:TypeArguments="x:Int32" Capacity="8">
+      <x:Int32>0</x:Int32>
+      <x:Int32>28</x:Int32>
+      <x:Int32>19</x:Int32>
+      <x:Int32>29</x:Int32>
+      <x:Int32>26</x:Int32>
+      <x:Int32>29</x:Int32>
+      <x:Int32>5</x:Int32>
+      <x:Int32>7</x:Int32>
+    </List>
+    <List x:TypeArguments="x:Int32" Capacity="8">
+      <x:Int32>0</x:Int32>
+      <x:Int32>29</x:Int32>
+      <x:Int32>29</x:Int32>
+      <x:Int32>28</x:Int32>
+      <x:Int32>27</x:Int32>
+      <x:Int32>32</x:Int32>
+      <x:Int32>2</x:Int32>
+      <x:Int32>8</x:Int32>
+    </List>
+    <List x:TypeArguments="x:Int32" Capacity="8">
+      <x:Int32>0</x:Int32>
+      <x:Int32>28</x:Int32>
+      <x:Int32>27</x:Int32>
+      <x:Int32>25</x:Int32>
+      <x:Int32>25</x:Int32>
+      <x:Int32>49</x:Int32>
+      <x:Int32>4</x:Int32>
+      <x:Int32>8</x:Int32>
+    </List>
+  </List>
+  <List x:TypeArguments="List(x:Int32)" x:Key="wrong" Capacity="4">
+    <List x:TypeArguments="x:Int32" Capacity="8">
+      <x:Int32>0</x:Int32>
+      <x:Int32>9</x:Int32>
+      <x:Int32>7</x:Int32>
+      <x:Int32>62</x:Int32>
+      <x:Int32>9</x:Int32>
+      <x:Int32>9</x:Int32>
+    </List>
+    <List x:TypeArguments="x:Int32" Capacity="8">
+      <x:Int32>0</x:Int32>
+      <x:Int32>7</x:Int32>
+      <x:Int32>10</x:Int32>
+      <x:Int32>8</x:Int32>
+      <x:Int32>8</x:Int32>
+      <x:Int32>8</x:Int32>
+    </List>
+    <List x:TypeArguments="x:Int32" Capacity="8">
+      <x:Int32>0</x:Int32>
+      <x:Int32>8</x:Int32>
+      <x:Int32>75</x:Int32>
+      <x:Int32>9</x:Int32>
+      <x:Int32>9</x:Int32>
+      <x:Int32>8</x:Int32>
+    </List>
+  </List>
+  <List x:TypeArguments="List(x:Int32)" x:Key="aa" Capacity="4">
+    <List x:TypeArguments="x:Int32" Capacity="8">
+      <x:Int32>0</x:Int32>
+      <x:Int32>7</x:Int32>
+      <x:Int32>8</x:Int32>
+      <x:Int32>21</x:Int32>
+      <x:Int32>9</x:Int32>
+      <x:Int32>7</x:Int32>
+    </List>
+    <List x:TypeArguments="x:Int32" Capacity="8">
+      <x:Int32>0</x:Int32>
+      <x:Int32>8</x:Int32>
+      <x:Int32>9</x:Int32>
+      <x:Int32>23</x:Int32>
+      <x:Int32>7</x:Int32>
+      <x:Int32>8</x:Int32>
+    </List>
+    <List x:TypeArguments="x:Int32" Capacity="8">
+      <x:Int32>0</x:Int32>
+      <x:Int32>7</x:Int32>
+      <x:Int32>9</x:Int32>
+      <x:Int32>19</x:Int32>
+      <x:Int32>8</x:Int32>
+      <x:Int32>9</x:Int32>
+    </List>
+  </List>
+  <List x:TypeArguments="List(x:Int32)" x:Key="ss" Capacity="4">
+    <List x:TypeArguments="x:Int32" Capacity="8">
+      <x:Int32>0</x:Int32>
+      <x:Int32>6</x:Int32>
+      <x:Int32>8</x:Int32>
+      <x:Int32>8</x:Int32>
+      <x:Int32>10</x:Int32>
+      <x:Int32>8</x:Int32>
+    </List>
+    <List x:TypeArguments="x:Int32" Capacity="8">
+      <x:Int32>0</x:Int32>
+      <x:Int32>7</x:Int32>
+      <x:Int32>7</x:Int32>
+      <x:Int32>8</x:Int32>
+      <x:Int32>8</x:Int32>
+      <x:Int32>7</x:Int32>
+    </List>
+    <List x:TypeArguments="x:Int32" Capacity="8">
+      <x:Int32>0</x:Int32>
+      <x:Int32>7</x:Int32>
+      <x:Int32>8</x:Int32>
+      <x:Int32>8</x:Int32>
+      <x:Int32>6</x:Int32>
+      <x:Int32>10</x:Int32>
+    </List>
+  </List>
+  <List x:TypeArguments="List(x:Int32)" x:Key="aaa" Capacity="4">
+    <List x:TypeArguments="x:Int32" Capacity="8">
+      <x:Int32>0</x:Int32>
+      <x:Int32>7</x:Int32>
+      <x:Int32>42</x:Int32>
+      <x:Int32>8</x:Int32>
+      <x:Int32>41</x:Int32>
+      <x:Int32>8</x:Int32>
+    </List>
+    <List x:TypeArguments="x:Int32" Capacity="8">
+      <x:Int32>0</x:Int32>
+      <x:Int32>7</x:Int32>
+      <x:Int32>40</x:Int32>
+      <x:Int32>6</x:Int32>
+      <x:Int32>45</x:Int32>
+      <x:Int32>6</x:Int32>
+    </List>
+    <List x:TypeArguments="x:Int32" Capacity="8">
+      <x:Int32>0</x:Int32>
+      <x:Int32>6</x:Int32>
+      <x:Int32>45</x:Int32>
+      <x:Int32>5</x:Int32>
+      <x:Int32>46</x:Int32>
+      <x:Int32>8</x:Int32>
+    </List>
+  </List>
+</Dictionary>

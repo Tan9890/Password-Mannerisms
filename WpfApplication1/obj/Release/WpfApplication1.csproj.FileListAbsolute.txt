@@ -1,0 +1,26 @@
+E:\VSProjects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+E:\VSProjects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+E:\VSProjects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+E:\VSProjects\WpfApplication1\WpfApplication1\bin\Release\OxyPlot.dll
+E:\VSProjects\WpfApplication1\WpfApplication1\bin\Release\OxyPlot.Wpf.dll
+E:\VSProjects\WpfApplication1\WpfApplication1\bin\Release\OxyPlot.Xps.dll
+E:\VSProjects\WpfApplication1\WpfApplication1\bin\Release\OxyPlot.pdb
+E:\VSProjects\WpfApplication1\WpfApplication1\bin\Release\OxyPlot.xml
+E:\VSProjects\WpfApplication1\WpfApplication1\bin\Release\OxyPlot.Wpf.pdb
+E:\VSProjects\WpfApplication1\WpfApplication1\bin\Release\OxyPlot.Wpf.xml
+E:\VSProjects\WpfApplication1\WpfApplication1\bin\Release\OxyPlot.Xps.pdb
+E:\VSProjects\WpfApplication1\WpfApplication1\bin\Release\OxyPlot.Xps.xml
+E:\VSProjects\WpfApplication1\WpfApplication1\obj\Release\Admin_Modify.g.cs
+E:\VSProjects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+E:\VSProjects\WpfApplication1\WpfApplication1\obj\Release\New User.g.cs
+E:\VSProjects\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+E:\VSProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+E:\VSProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+E:\VSProjects\WpfApplication1\WpfApplication1\obj\Release\Admin_Modify.baml
+E:\VSProjects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+E:\VSProjects\WpfApplication1\WpfApplication1\obj\Release\New User.baml
+E:\VSProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+E:\VSProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+E:\VSProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.csproj.GenerateResource.Cache
+E:\VSProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+E:\VSProjects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
